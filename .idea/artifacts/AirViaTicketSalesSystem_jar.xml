@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AirViaTicketSalesSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AirViaTicketSalesSystem_jar</output-path>
+    <root id="archive" name="AirViaTicketSalesSystem.jar">
+      <element id="module-output" name="AirViaTicketSalesSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../itextpdf-5.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../activation-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

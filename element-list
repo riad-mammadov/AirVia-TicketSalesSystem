@@ -1,0 +1,15 @@
+Admin.Blanks
+Admin.Commission
+Admin.CustomerDetails
+Admin.Home
+Admin.UserDetails
+Advisor.Blanks
+Advisor.Home
+Advisor.IndividualReport
+Advisor.Refunds
+Advisor.Sales
+Authentication
+ButtonUtil
+DB
+Manager
+SMTP
